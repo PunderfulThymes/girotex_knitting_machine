@@ -7,9 +7,9 @@ The intent is to eventually have this manual in html format to live on my empty 
 The suppliers manual for a similar machine can be found [here](https://www.example.com)
 
 ## Machine information
-**Construction date:** Date unknown, estimating 1950s/60s
-**Country of origin:** Western Germany
-**Fabrication Number (Fab.Nr.):** 66731
+**Construction date:** Date unknown, estimating 1950s/60s  
+**Country of origin:** Western Germany  
+**Fabrication Number (Fab.Nr.):** 66731  
 **Needle bed number:** 2
 
 ## Topics
