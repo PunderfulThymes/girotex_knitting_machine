@@ -13,8 +13,8 @@ The suppliers manual for a similar machine can be found [here](https://www.examp
 **Needle bed number:** 2
 
 ## Topics
-- Clean the surface of the machine
 - Components and dimensions
+- Clean the surface of the machine
 - Tools and components you need to make/acquire
   - Carriage ballbearing shim
   - Needle sponge
