@@ -1,5 +1,5 @@
-# girotex_knitting_machine
-A compilation of maintenance and restoration  information of a 1950s/60s residential knitting machine.
+# Project details
+A compilation of maintenance and restoration information of a 1950s/60s residential knitting machine.
 
 This is going to be a collection of maintenance and restoration information for an antique Girotex-Handstrickapparat knitting machine.  
 I inherited this machine from my grandmother with minimal rusting, but many stuck and dirty pieces.  
