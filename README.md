@@ -3,7 +3,7 @@ A compilation of maintenance and restoration information of a 1950s/60s resident
 
 This is going to be a collection of maintenance and restoration information for an antique Girotex-Handstrickapparat knitting machine.  
 I inherited this machine from my grandmother with minimal rusting, but many stuck and dirty pieces.  
-The intent is to eventually have this manual in html format to live on my empty neocities site.  
+The intent is to eventually have this manual in html format to livew online.  
 The suppliers manual for a similar machine can be found [here](https://www.example.com)  
 
 ## Machine information
